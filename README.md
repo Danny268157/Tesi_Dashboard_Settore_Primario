@@ -17,7 +17,7 @@ La dashboard è divisa in tre sezioni principali:
 - 📁 **Storico** – Analisi di dati passati dal 2024 al 2025 fino all'ora attuale
 - 📈 **Previsioni** – Simulazioni e stime future per il 2025 e il 2026 a partire dall'ora successiva a quella attuale
 
-Ogni sezione è suddivisa in 6 **macro-categorie** che racchiudono le metriche principali necessarie per analizzare gli andamenti nel settore primario e vengono quindi rappresentati in grafici interattivi e dinamici:
+Le metriche principali necessarie per analizzare gli andamenti nel settore primario vegono racchiusi in 6 **macro-categorie** e vengono quindi rappresentati in grafici interattivi e dinamici nelle 2 sezioni **Storico** e **Previsioni**: 
 
 1. **Fattori Ambientali**
 2. **Efficienza Operativa**
