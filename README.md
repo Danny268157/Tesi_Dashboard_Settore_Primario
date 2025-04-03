@@ -9,19 +9,11 @@
 
 ---
 
-## 🚀 Obiettivi del Progetto
-
-- Simulare **dati ambientali, produttivi, operativi ed economici** su base oraria.
-- Analizzare l'efficienza e l'impatto di attività produttive nel tempo.
-- Visualizzare in tempo reale **metriche aggregate e previsioni** su base giornaliera, mensile e annuale.
-- Offrire una struttura **modulare e interattiva** tramite il framework Dash.
-
----
-
 ## 🧱 Struttura della Dashboard
 
-La dashboard è divisa in due sezioni principali:
+La dashboard è divisa in tre sezioni principali:
 
+- 🏠 **Home** – Pagina iniziale, che permette di navigare tra le due sezioni che presentano i dati
 - 📁 **Storico** – Analisi di dati passati dal 2024 al 2025 fino all'ora attuale
 - 📈 **Previsioni** – Simulazioni e stime future per il 2025 e il 2026 a partire dall'ora successiva a quella attuale
 
@@ -38,14 +30,22 @@ Ogni sezione è suddivisa in 6 **macro-categorie** che racchiudono le metriche p
 
 ## 📦 Librerie e Tecnologie
 
-| Tecnologia | Uso |
-| `Dash` | Framework principale per la dashboard |
-| `Plotly` | Grafici interattivi |
-| `Dash Bootstrap Components` | UI responsive e moderna |
-| `Pandas` | Gestione e manipolazione dei dati |
-| `NumPy` | Simulazione valori e smoothing casuale |
+**Dash**   : Framework principale per la dashboard 
+**Plotly** : Grafici interattivi 
+**Dash**   : Bootstrap Components` UI responsive e moderna 
+**Pandas** : Gestione e manipolazione dei dati 
+**NumPy**  : Simulazione valori e smoothing casuale 
 
 ---
 
 ## 📁 Struttura del codice
 
+
+```plaintext
+├── progetto.py              # File iniziale per l'avvio del progetto
+├── home.py                  # Pagina iniziale della Dashboard
+├── storico.py               # Pagina per analisi dei dati storici
+├── previsioni.py            # Pagina per analisi delle previsioni future
+├── simulatore_hours.py      # Simulatore che genera i valori orari per le metriche
+├── simulatore_days.py       # Simulatore che genera i valori giornalieri a partire da quelli orari
+├── requisiti.txt            # Requisiti necessari per l'avvio del progetto
