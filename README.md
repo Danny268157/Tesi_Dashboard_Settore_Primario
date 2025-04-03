@@ -1,4 +1,4 @@
-# 🌿 Dashboard Interattiva - Settore Primario
+# 🌿 Dashboard Settore Primario
 
 📊 **Progetto di Tesi Universitaria** sviluppato in Python per la realizzazione di una **dashboard interattiva** in grado di monitorare e prevedere metriche chiave del settore primario (agricoltura, pesca, silvicoltura, estrazione).
 
