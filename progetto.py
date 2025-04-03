@@ -16,4 +16,4 @@ progetto.layout = dbc.Container(
 )
 
 if __name__ == '__main__':
-    progetto.run_server(debug=True)
+    progetto.run(debug=True)
