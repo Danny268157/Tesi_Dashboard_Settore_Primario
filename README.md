@@ -42,10 +42,10 @@ Ogni sezione è suddivisa in 6 **macro-categorie** che racchiudono le metriche p
 
 
 ```plaintext
-├── progetto.py              # File iniziale per l'avvio del progetto
-├── home.py                  # Pagina iniziale della Dashboard
-├── storico.py               # Pagina per analisi dei dati storici
-├── previsioni.py            # Pagina per analisi delle previsioni future
-├── simulatore_hours.py      # Simulatore che genera i valori orari per le metriche
-├── simulatore_days.py       # Simulatore che genera i valori giornalieri a partire da quelli orari
-├── requisiti.txt            # Requisiti necessari per l'avvio del progetto
+├── progetto.py                   # File iniziale per l'avvio del progetto
+├── \Pagine\home.py               # Pagina iniziale della Dashboard
+├── \Pagine\storico.py            # Pagina per analisi dei dati storici
+├── \Pagine\previsioni.py         # Pagina per analisi delle previsioni future
+├── simulatore_hours.py           # Simulatore che genera i valori orari per le metriche
+├── simulatore_days.py            # Simulatore che genera i valori giornalieri a partire da quelli orari
+├── requisiti.txt                 # Requisiti necessari per l'avvio del progetto
