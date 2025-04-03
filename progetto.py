@@ -34,7 +34,6 @@ def genera_tutto():
                 file_path=hourly_file
             )
         if not os.path.exists(daily_file):
-            print(f"Genero: {daily_file}")
             crea_giornata(hourly_file, daily_file)
 
 genera_tutto()
