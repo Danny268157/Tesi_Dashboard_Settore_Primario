@@ -30,11 +30,13 @@ Le metriche principali necessarie per analizzare gli andamenti nel settore prima
 
 ## 📦 Librerie e Tecnologie
 
-**Dash**   : Framework principale per la dashboard 
-**Plotly** : Grafici interattivi 
-**Dash**   : Bootstrap Components` UI responsive e moderna 
-**Pandas** : Gestione e manipolazione dei dati 
-**NumPy**  : Simulazione valori e smoothing casuale 
+| Libreria                  | Utilizzo                                 | Versione utilizzata |
+|---------------------------|------------------------------------------|-----------------------|
+| `Dash`                   | Framework principale per la dashboard    | >= 2.18.2             |
+| `Dash Bootstrap Components` | UI responsive e moderna con Bootstrap  | >= 2.0.0              |
+| `Plotly`                 | Grafici interattivi                      | >= 6.0.1             |
+| `Pandas`                 | Gestione e manipolazione dei dati        | >= 2.2.3              |
+| `NumPy`                  | Simulazione valori e smoothing casuale   | >= 2.2.3             |
 
 ---
 
