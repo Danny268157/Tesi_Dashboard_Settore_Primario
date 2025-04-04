@@ -1,6 +1,6 @@
 # 🌿 Dashboard Settore Primario
 
-📊 **Progetto di Tesi Universitaria** sviluppato in Python per la realizzazione di una **dashboard interattiva** in grado di monitorare e prevedere metriche chiave del settore primario (agricoltura, pesca, acquacultura, silvicoltura, estrazione mineraria).
+📊 **Progetto per la Tesi Universitaria** sviluppato in Python per la realizzazione di una **dashboard interattiva** in grado di monitorare e prevedere metriche chiave del settore primario (agricoltura, pesca, acquacultura, silvicoltura, estrazione mineraria).
 
 > **Università Pegaso**  
 > Autore: Daniele Ferreri
