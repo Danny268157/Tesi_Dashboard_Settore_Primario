@@ -1,6 +1,6 @@
 # 🌿 Dashboard Settore Primario
 
-📊 **Progetto di Tesi Universitaria** sviluppato in Python per la realizzazione di una **dashboard interattiva** in grado di monitorare e prevedere metriche chiave del settore primario (agricoltura, pesca, silvicoltura, estrazione).
+📊 **Progetto di Tesi Universitaria** sviluppato in Python per la realizzazione di una **dashboard interattiva** in grado di monitorare e prevedere metriche chiave del settore primario (agricoltura, pesca, acquacultura, silvicoltura, estrazione mineraria).
 
 > **Università Pegaso**  
 > Autore: Daniele Ferreri
@@ -13,9 +13,9 @@
 
 La dashboard è divisa in tre sezioni principali:
 
-- 🏠 **Home** – Pagina iniziale, che permette di navigare tra le due sezioni che presentano i dati
-- 📁 **Storico** – Analisi di dati passati dal 2024 al 2025 fino all'ora attuale
-- 📈 **Previsioni** – Simulazioni e stime future per il 2025 e il 2026 a partire dall'ora successiva a quella attuale
+- 🏠 **Home** – Pagina iniziale, che permette di navigare tra le due sezioni che presentano i dati.
+- 📁 **Storico** – Analisi di dati passati dal 2024 al 2025 fino all'ora attuale.
+- 📈 **Previsioni** – Simulazioni e stime future per il 2025 e il 2026 a partire dall'ora successiva a quella attuale.
 
 Le metriche principali necessarie per analizzare gli andamenti nel settore primario vegono racchiusi in 6 **macro-categorie** e vengono quindi rappresentati in grafici interattivi e dinamici nelle due sezioni **Storico** e **Previsioni**: 
 
